@@ -1,0 +1,13 @@
+1.
+Connor Price
+Jim DeBlock
+
+2. 
+I tried to deviate from the proposed psuedo code of the generate method and that 
+made things a lot harder than they should have been. Once I settled down and followed the blueprint, 
+things were much easier. The word_model also threw me for a loop but breaking that down part by part and working with Jim DeBlock on the logic behind it helped me get through it.
+
+3. I liked the unique challenge but I'm kind of tired of map projects.
+ I would like to work with other functions and types of C++.
+
+4. 5 hours give or take.
