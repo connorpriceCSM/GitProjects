@@ -1,0 +1,31 @@
+
+1. Connor Price 
+   Jim DeBlock
+
+2.  I had some difficulty figuring out the logic behind the idea of word families and mapping 
+    all of that out. After spending an insane amount of time on stack overflow, I managed to fiinally figure 
+    out how to get that done, and in splendid fashion I might add. Changing up the word and displaying it every 
+    time also took a bit of knowledge but I powered through that as well.
+
+3.  It felt pretty cool to write an entire program from scratch. I love that we were given free reign 
+    on how to complete this assignment. I learned a ton about good coding in the time it took me to 
+    complete this.
+
+4. When I wasn't getting distracted, about 3 hours to write the code and another hour and a half to 
+   clean it up and make it look presentable
+
+5. I ended up using a data structure to define my word family which made my task of adding words 
+   and frequency to them much much easier. 
+
+   I managed to get some extra-creativity in and sucessfully iterate through a set with pointers like we just
+   learned in class. (See line 39)  I could have done a complex for loop but this was a good way to practice.
+   I tried doing the same thing with the maps but didn't have as much success
+
+   I also ended up using the algoritihm *max_element in the method, compare_family_count 
+   to find the family with the largest number of words for each iteration through the loop. 
+   I had to use an#include <algorithm> statement for that.
+
+   I tried messing around with some cin logic as well but that produced mixed results so I 
+   commented it out.
+
+   

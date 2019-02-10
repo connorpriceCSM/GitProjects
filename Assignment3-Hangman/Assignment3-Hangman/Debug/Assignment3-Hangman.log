@@ -1,0 +1,7 @@
+﻿  Hangman.cpp
+c:\users\connor\desktop\csci262\assignment3-hangman\assignment3-hangman\hangman.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor\desktop\csci262\assignment3-hangman\assignment3-hangman\hangman.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\connor\desktop\csci262\assignment3-hangman\assignment3-hangman\hangman.cpp(360): warning C4018: '<': signed/unsigned mismatch
+StanfordCPPLib.lib(error.obj) : warning LNK4099: PDB 'StanfordCPPLib.pdb' was not found with 'StanfordCPPLib.lib(error.obj)' or at 'C:\Users\Connor\Desktop\CSCI262\Assignment3-Hangman\Debug\StanfordCPPLib.pdb'; linking object as if no debug info
+  Assignment3-Hangman.vcxproj -> C:\Users\Connor\Desktop\CSCI262\Assignment3-Hangman\Debug\Assignment3-Hangman.exe
+  Assignment3-Hangman.vcxproj -> C:\Users\Connor\Desktop\CSCI262\Assignment3-Hangman\Debug\Assignment3-Hangman.pdb (Partial PDB)
