@@ -1,0 +1,15 @@
+#Q Is it a mammal?
+#Q Does it have stripes?
+#Q Does it have sharp claws?
+#A Is it a tiger?
+#Q Is it a fish?
+#A Is it a lionfish?
+#A Is it a zebra?
+#Q Does it purr?
+#A Is it a cat?
+#A Is it a lion?
+#Q Is it a bird?
+#Q Does it fly?
+#A Is it an eagle?
+#A Is it a penguin?
+#A Is it a gila monster?

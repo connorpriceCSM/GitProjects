@@ -1,0 +1,16 @@
+
+1.
+
+Connor Price 
+Jim DeBlock
+
+2. I was largely able to get most of the methodology impleneted but playing the actual game threw me for a huge loop.
+I will freely admit that pointers, binary trees, lists and that sort of stuff is what I am the worst at by far. 
+I talked to Jim DeBlock and he was able to guide me through the play_game process as well as suggest/guide me through a helper find method that proved very useful.
+By the end, I managed to complete the assignment
+
+3. I liked the unique challenge and also hated the unique challenge. I don't like binary trees.
+
+4. About 7 hours all things considered.
+
+5. N/A
